@@ -1,0 +1,10 @@
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.form-input{
+    @apply px-2 py-1 w-full border rounded border-gray-300;
+}
